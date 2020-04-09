@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ares27/simpleapp/issues"
   },
-  "homepage": "https://github.com/ares27/simpleapp#readme"
+  "homepage": "https://github.com/ares27/simpleapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

@@ -1,11 +1,33 @@
-const http = require('http');
 const PORT = process.env.PORT || 8000;
+const express = require('express');
+const app = express();
 
 
-onRequest = (req, res) => {
-    res.writeHead(200, { 'Content-Type': 'text/plain' });
-    res.write('Hello World!');
-    res.end();
-}
 
-http.createServer(onRequest).listen(PORT);
+
+
+//ROUTES
+app.get('/', (req, res) => {
+
+    //send response
+    res.json("Hello World!");
+})
+
+
+app.get('/api', (req, res) => {
+
+    //send response
+    res.json({ msg: "Hello World from API!!!"});
+})
+
+
+
+
+
+
+//START SERVER
+app.listen(PORT, () => {
+    console.log(`Server started on port: ${PORT}`)
+});
+
+
