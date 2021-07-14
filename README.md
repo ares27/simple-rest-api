@@ -1,10 +1,10 @@
-# simple-api
+# simple-rest-api
 
 Simple API application with a greeting endpoint.
 
-# API Endpoints
+# API
 
-REST endpoints available.
+Get a random activity.
 
 ```Endpoints
 - /api/activity
