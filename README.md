@@ -6,5 +6,6 @@ Simple API application with a greeting endpoint.
 
 REST endpoints available.
 
-- /api
-- /api/greet
+```Endpoints
+- /api/activity
+```
