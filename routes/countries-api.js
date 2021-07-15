@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const countries = require("../resources/countries");
+const countries = require("../resources/countries.json");
 
 router
   .get("/countries", (req, res) => {
