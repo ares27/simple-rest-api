@@ -1,6 +1,6 @@
 # simple-rest-api
 
-Simple API application with a greeting endpoint.
+Simple API application with various endpoints.
 
 # API
 
