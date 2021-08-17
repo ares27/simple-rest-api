@@ -1,52 +1,152 @@
-[ 
-    {"activity":"Go for a walk"}
-    ,{"activity":"Listen to music"}
-    ,{"activity":"Take photographs"}
-    ,{"activity":"Read a newspaper or magazine"}
-    ,{"activity":"Take a bath"}
-    ,{"activity":"Sit in the sun"}
-    ,{"activity":"Watch a movie"}
-    ,{"activity":"Laugh"}
-    ,{"activity":"Write in a journal"}
-    ,{"activity":"Work on a puzzle"}
-    ,{"activity":"Recall a happy memory"}
-    ,{"activity":"Coloring"}
-    ,{"activity":"Gardening"}
-    ,{"activity":"Spend time with friends"}
-    ,{"activity":"Do yoga"}
-    ,{"activity":"Swimming"}
-    ,{"activity":"Singing"}
-    ,{"activity":"Dancing"}
-    ,{"activity":"Go to a flea market"}
-    ,{"activity":"Drawing or doodling"}
-    ,{"activity":"Painting"}
-    ,{"activity":"Buy fresh flowers"}
-    ,{"activity":"Join a book club"}
-    ,{"activity":"Go to a farmer’s market"}
-    ,{"activity":"Be affectionate with a loved one"}
-    ,{"activity":"Play a musical instrument"}
-    ,{"activity":"Crafting (crochet, model building)"}
-    ,{"activity":"Get a manicure or pedicure"}
-    ,{"activity":"Cooking"}
-    ,{"activity":"Jogging or running"}
-    ,{"activity":"Play a sport"}
-    ,{"activity":"Go sightseeing in your own town"}
-    ,{"activity":"Read a book"}
-    ,{"activity":"Meditate"}
-    ,{"activity":"Watch a sunrise or sunset"}
-    ,{"activity":"Enjoy a cup of tea"}
-    ,{"activity":"Have a picnic"}
-    ,{"activity":"Visit a museum"}
-    ,{"activity":"Sudoku or a crossword puzzle"}
-    ,{"activity":"Play a board game"}
-    ,{"activity":"Look at old photos"}
-    ,{"activity":"Light a scented candle"}
-    ,{"activity":"Call a friend or family member"}
-    ,{"activity":"Hiking"}
-    ,{"activity":"Get a massage"}
-    ,{"activity":"Volunteer"}
-    ,{"activity":"Go to the library"}
-    ,{"activity":"Go to a park"}
-    ,{"activity":"Stargazing"}
-    ,{"activity":"Explore somewhere new"}
+[
+    {
+        "activity": "Go for a walk"
+    },
+    {
+        "activity": "Listen to music"
+    },
+    {
+        "activity": "Take photographs"
+    },
+    {
+        "activity": "Read a newspaper or magazine"
+    },
+    {
+        "activity": "Take a bath"
+    },
+    {
+        "activity": "Sit in the sun"
+    },
+    {
+        "activity": "Watch a movie"
+    },
+    {
+        "activity": "Laugh"
+    },
+    {
+        "activity": "Write in a journal"
+    },
+    {
+        "activity": "Work on a puzzle"
+    },
+    {
+        "activity": "Recall a happy memory"
+    },
+    {
+        "activity": "Try coloring"
+    },
+    {
+        "activity": "Do some gardening"
+    },
+    {
+        "activity": "Spend time with friends"
+    },
+    {
+        "activity": "Do yoga"
+    },
+    {
+        "activity": "Go swimming"
+    },
+    {
+        "activity": "Try singing"
+    },
+    {
+        "activity": "Dancing"
+    },
+    {
+        "activity": "Go to a flea market"
+    },
+    {
+        "activity": "Drawing or doodling"
+    },
+    {
+        "activity": "Painting"
+    },
+    {
+        "activity": "Buy fresh flowers"
+    },
+    {
+        "activity": "Join a book club"
+    },
+    {
+        "activity": "Go to a farmer’s market"
+    },
+    {
+        "activity": "Be affectionate with a loved one"
+    },
+    {
+        "activity": "Play a musical instrument"
+    },
+    {
+        "activity": "Crafting (crochet, model building)"
+    },
+    {
+        "activity": "Get a manicure or pedicure"
+    },
+    {
+        "activity": "Try cooking something new"
+    },
+    {
+        "activity": "Go jogging or running"
+    },
+    {
+        "activity": "Play a sport"
+    },
+    {
+        "activity": "Go sightseeing in your own town"
+    },
+    {
+        "activity": "Read a book"
+    },
+    {
+        "activity": "Meditate"
+    },
+    {
+        "activity": "Watch a sunrise or sunset"
+    },
+    {
+        "activity": "Enjoy a cup of tea"
+    },
+    {
+        "activity": "Have a picnic"
+    },
+    {
+        "activity": "Visit a museum"
+    },
+    {
+        "activity": "Sudoku or a crossword puzzle"
+    },
+    {
+        "activity": "Play a board game"
+    },
+    {
+        "activity": "Look at old photos"
+    },
+    {
+        "activity": "Light a scented candle"
+    },
+    {
+        "activity": "Call a friend or family member"
+    },
+    {
+        "activity": "Hiking"
+    },
+    {
+        "activity": "Get a massage"
+    },
+    {
+        "activity": "Volunteer"
+    },
+    {
+        "activity": "Go to the library"
+    },
+    {
+        "activity": "Go to a park"
+    },
+    {
+        "activity": "Stargazing"
+    },
+    {
+        "activity": "Explore somewhere new"
+    }
 ]
