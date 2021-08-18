@@ -6,7 +6,7 @@ Maybe it could be an API for you to quickly test too.
 
 # API
 
-Get a random activity
+Random activity
 
 ```Endpoint
 - https://byr-simple-rest-api.herokuapp.com/api/activity/
